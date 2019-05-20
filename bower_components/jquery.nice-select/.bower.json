@@ -1,0 +1,8 @@
+{
+  "name": "jquery.nice-select",
+  "main": ["nice-select.js","nice-select.css"],
+  "_source": "/Users/developer/Desktop/jquery-nice-select-1.1.0/js/jquery.nice-select.js",
+  "_target": "*",
+  "_originalSource": "../../jquery-nice-select-1.1.0/js/jquery.nice-select.js",
+  "_direct": true
+}

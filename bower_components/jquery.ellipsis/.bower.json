@@ -1,0 +1,14 @@
+{
+  "name": "jquery.ellipsis",
+  "_cacheHeaders": {
+    "ETag": "\"bbb36352ba18b8bef4be5c8509cb282927213618\"",
+    "Content-Length": "2389",
+    "Content-Type": "text/plain; charset=utf-8"
+  },
+  "_release": "e-tag:bbb36352b",
+  "main": "jquery.ellipsis.js",
+  "_source": "https://raw.githubusercontent.com/jjenzz/jquery.ellipsis/master/jquery.ellipsis.js",
+  "_target": "*",
+  "_originalSource": "https://raw.githubusercontent.com/jjenzz/jquery.ellipsis/master/jquery.ellipsis.js",
+  "_direct": true
+}

@@ -1,0 +1,14 @@
+{
+  "name": "sammy-latest.min",
+  "_cacheHeaders": {
+    "ETag": "\"a08d509b59c09e5bc021e97566bb2f9306b24b70\"",
+    "Content-Length": "7525",
+    "Content-Type": "text/plain; charset=utf-8"
+  },
+  "_release": "e-tag:a08d509b5",
+  "main": "index.js",
+  "_source": "https://raw.githubusercontent.com/quirkey/sammy/master/lib/min/sammy-latest.min.js",
+  "_target": "*",
+  "_originalSource": "https://raw.githubusercontent.com/quirkey/sammy/master/lib/min/sammy-latest.min.js",
+  "_direct": true
+}

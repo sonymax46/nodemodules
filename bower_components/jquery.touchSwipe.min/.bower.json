@@ -1,0 +1,14 @@
+{
+  "name": "jquery.touchSwipe.min",
+  "_cacheHeaders": {
+    "ETag": "W/\"5afd494f-2985\"",
+    "Last-Modified": "Thu, 17 May 2018 09:20:15 GMT",
+    "Content-Type": "application/javascript"
+  },
+  "_release": "e-tag:W/\"5afd494",
+  "main": "jquery.touchSwipe.min.js",
+  "_source": "https://cdnjs.cloudflare.com/ajax/libs/jquery.touchswipe/1.6.4/jquery.touchSwipe.min.js",
+  "_target": "*",
+  "_originalSource": "https://cdnjs.cloudflare.com/ajax/libs/jquery.touchswipe/1.6.4/jquery.touchSwipe.min.js",
+  "_direct": true
+}

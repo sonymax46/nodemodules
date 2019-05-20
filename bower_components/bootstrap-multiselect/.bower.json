@@ -1,0 +1,11 @@
+{
+  "name": "bootstrap-multiselect",
+  "main": [
+    "bootstrap-multiselect.js",
+    "bootstrap-multiselect.css"
+  ],
+  "_source": "/Users/developer/Desktop/bootstrap-multiselect.js",
+  "_target": "*",
+  "_originalSource": "/Users/developer/Desktop/bootstrap-multiselect.js",
+  "_direct": true
+}
